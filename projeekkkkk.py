@@ -1,7 +1,6 @@
 import csv
 import os
 import datetime
-import pandas as pd
 
 CSV_BARANG = 'barang.csv'
 CSV_PENGGUNA = 'pengguna.csv'
