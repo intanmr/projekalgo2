@@ -1,0 +1,11 @@
+id,nama,stok,harga,kategori,masa_habis
+1,Pestisida Organik Plus,10,50000,Obat Pertanian,10
+2,Fungisida Cair Max,12,45000,Obat Pertanian,15
+3,Insektisida Serbuk Hijau,8,55000,Obat Pertanian,20
+4,Vitamin Daun Super,20,30000,Obat Pertanian,20
+5,ZPT Auksin Murni,15,60000,Obat Pertanian,26
+6,Herbisida Kontak Cepat,10,48000,Obat Pertanian,2
+7,Pupuk Hayati Cair,14,35000,Obat Pertanian,24
+8,Bakterisida Klorin-X,11,52000,Obat Pertanian,22
+9,Pestisida Biologis Aman,9,40000,Obat Pertanian,18
+10,Fungisida Sistemik Gold,13,47000,Obat Pertanian,10
